@@ -3,6 +3,10 @@ pkgver=1.0
 pkgrel=1
 pkgdesc="Helwan Linux 5.0 Meta Package"
 arch=('any')
+url="https://github.com/helwan-linux/new-release"
+provides=('hel-release')
+replaces=('hel-release')
+conflicts=('hel-release')
 
 depends=(
     # helwan-packages
