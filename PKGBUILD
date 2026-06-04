@@ -1,10 +1,8 @@
 pkgname=hel-linux
 pkgver=1.0
 pkgrel=1
+pkgdesc="Helwan Linux 5.0 Meta Package"
 arch=('any')
-provides=('hel-release')
-replaces=('hel-release')
-conflicts=('hel-release')
 
 depends=(
     # helwan-packages
