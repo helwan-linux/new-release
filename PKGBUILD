@@ -45,7 +45,7 @@ depends=(
 	hel-senet
 	hel-mines
 	hel-prism
-	hel-release
+
 	)
 
 package() {
