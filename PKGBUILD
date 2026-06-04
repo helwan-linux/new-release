@@ -1,4 +1,4 @@
-pkgname=hel-linux
+pkgname=hel-release
 pkgver=1.0
 pkgrel=1
 pkgdesc="Helwan Linux 5.0 Meta Package"
