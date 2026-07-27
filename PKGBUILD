@@ -45,6 +45,16 @@ depends=(
 	hel-senet
 	hel-mines
 	hel-prism
+	#Flash
+	udisks2
+	gvfs
+	gvfs-mtp
+	mtpfs
+	android-tools
+	ntfs-3g
+	exfatprogs
+	libmtp
+	android-udev
 
 	)
 
