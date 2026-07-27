@@ -45,6 +45,8 @@ depends=(
 	hel-senet
 	hel-mines
 	hel-prism
+
+	
 	#Flash
 	udisks2
 	gvfs
