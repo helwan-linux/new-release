@@ -45,6 +45,9 @@ depends=(
 	hel-senet
 	hel-mines
 	hel-prism
+	hel-snake
+	hel-pong
+	hel-memory
 
 	
 	#Flash
