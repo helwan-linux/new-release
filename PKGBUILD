@@ -1,6 +1,6 @@
 pkgname=hel-release
 pkgver=1.0
-pkgrel=2
+pkgrel=3
 pkgdesc="Helwan Linux 5.0 Meta Package"
 arch=('any')
 url="https://github.com/helwan-linux/new-release"
