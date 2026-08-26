@@ -48,6 +48,7 @@ depends=(
 	hel-snake
 	hel-pong
 	hel-memory
+	hel-2048
 
 	
 	#Flash
