@@ -62,6 +62,9 @@ depends=(
 	libmtp
 	android-udev
 
+	#BackGround
+	
+
 	)
 
 package() {
