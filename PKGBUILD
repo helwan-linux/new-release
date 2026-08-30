@@ -23,7 +23,7 @@ depends=(
 	hel-sync
 	#hel-stream
 	hel-bootfix
-	hel-builder
+	#hel-builder
 
 	#other-helwan-packages##
 	hel-tutorial
