@@ -1,6 +1,6 @@
 pkgname=hel-release
 pkgver=1.0
-pkgrel=4
+pkgrel=5
 pkgdesc="Helwan Linux 5.0 Meta Package"
 arch=('any')
 url="https://github.com/helwan-linux/new-release"
@@ -10,7 +10,7 @@ conflicts=('hel-release')
 
 depends=(
     # helwan-packages
-	hpm
+	#hpm
 	momo
 	welcome_lts
 	hel-ai-gate
