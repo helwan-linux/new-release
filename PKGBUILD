@@ -1,6 +1,6 @@
 pkgname=hel-release
 pkgver=1.0
-pkgrel=11
+pkgrel=12
 pkgdesc="Helwan Linux 5.0 Meta Package"
 arch=('any')
 url="https://github.com/helwan-linux/new-release"
@@ -54,6 +54,7 @@ depends=(
 	penguin
 	shooter
 	signal-echo
+	hel-words
 	
 	#Flash
 	udisks2
